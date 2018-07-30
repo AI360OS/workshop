@@ -1,9 +1,7 @@
 User Guide
 ===========
-TensorFlow实验环境准备
-1. 在笔记本上安装 python, pip (最好是 python 3)
-2. 下载教程代码库：git clone https://github.com/AI360OS/workshop
-3. 不同平台运行不同批处理如下：
+TensorFlow installments
+* install python, pip first. (python 3 will be recommended)
 
 Windows
 -------
@@ -24,6 +22,5 @@ Linux & Mac
 * python -m SimpleHTTPServer
 
 
-附：
-TensorFlow官方安装页面：https://www.tensorflow.org/install/
-教程代码库页面：https://github.com/tensorflowchina/workshop
+Reference：
+TensorFlow home page：https://www.tensorflow.org/install
