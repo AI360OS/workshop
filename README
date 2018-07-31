@@ -1,5 +1,7 @@
 User Guide
 ===========
+TensorFlow install environment
+* install python, pip first. (python 3 will be recommended)
 
 Windows
 -------
@@ -18,3 +20,7 @@ Linux & Mac
 * run any script to generate model
 * convert.sh MODEL_PATH to convert model to TFJS format
 * python -m SimpleHTTPServer
+
+
+Reference：
+TensorFlow home page：https://www.tensorflow.org/install
